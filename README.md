@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Express.js<br>👀 I’m interested in ML<br>🤖 I am currently working on full stack web projects<br>💬 Ask me anything from web to app <br>📫 How to reach me **rahulrajesh2101@gmail.com**
+🌱 I’m currently learning Express.js<br>👀 I’m interested in ML<br>🤖 I am currently working on full stack web projects<br>💬 Ask me anything from web to app <br>📫 How to reach me **rahulrajeshkumar21@gmail.com**
 
 
 ## 🌐 Socials:
