@@ -30,6 +30,6 @@ Software engineer focusing on machine learning systems, audio/multimodal pipelin
 
 #### Contact & Links
 
-- Email: [rahulrajeshkumar21@gmail.com](mailto:rahulrajeshkumar21@gmail.com)
+- Email: [rahulrajesh2101@gmail.com](mailto:rahulrajesh2101@gmail.com)
 - X / Twitter: [@Rahulr_2101](https://x.com/Rahulr_2101)
 - Portfolio: [rahulrajeshkumar.vercel.app](https://rahulrajeshkumar.vercel.app)
